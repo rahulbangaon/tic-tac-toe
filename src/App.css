@@ -9,3 +9,11 @@ body{
   background-color: #3450A1;
   font-family: 'Roboto Mono', monospace;
 }
+
+h1{
+  font-weight: 600;
+  font-size: 36px;
+  text-align: center;
+  color: white;
+  letter-spacing: 3px;
+}
